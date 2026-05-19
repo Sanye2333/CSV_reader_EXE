@@ -12,3 +12,5 @@
  ## 运行依赖
  ```bash
  pip install pyqt6 pandas matplotlib
+ ## 注意
+ - 若进行打包,需要将3个ui文件都放入dist文件夹中
